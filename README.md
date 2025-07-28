@@ -46,7 +46,7 @@ I'm a Computer Engineer who lives at the intersection of technology and creativi
   <img src="https://img.shields.io/badge/Flask-3BABC3?logo=flask&logoColor=fff&style=plastic" alt="Flask Badge" />
 </div>
 
-# 🗄️ Database
+# 🗄️ Database 
 
 <div>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic" alt="PostgreSQL Badge" />
@@ -54,15 +54,17 @@ I'm a Computer Engineer who lives at the intersection of technology and creativi
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic" alt="MongoDB Badge" />
 </div>
 
-# 🧰 Libraries
+# 🧰 Libraries & Tools
 
 <div>
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=plastic" alt="pandas Badge" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=plastic" alt="NumPy Badge" />
 </div>
 
-# 📦 Containerization
+
+# 📦 Containerization and Version Control
 
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=plastic" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic" alt="Git Badge" />
 </div>
